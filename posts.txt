@@ -1,4 +1,27 @@
 <h3>
+Created a portfolio website
+</h3>
+<p>
+I think this one is self explanatory yall 😂. Will post full repository soon
+</p>
+
+<br/>
+
+
+<h3>
+NCR Internship (Summer 2023)
+</h3>
+
+<p>
+One of the most life chaning experiences I had, and one that made me truly love web development. Using AngularJS along with unique company tools, we created an ATM application with functioning balance check and withdrawal services. Even though it was technically a web-app, deploying on the ATM machine was a completely different and unique experience. Your average web-app doesn't withdraw cash out of a physical machine, but ours does 😜.
+</p>
+<p>
+Technical aspect aside, the work environment at NCR is incredible and very friendly. Our mentors were very supportive and patient towards me and my team. To anyone I interacted with during my internship; Love you and keep this energy💙.
+</p>
+
+<br/>
+
+<h3>
 Database Project (Fall 2023)
 </h3>
 <p>
@@ -6,7 +29,7 @@ Created a fully functioning tool tracking website for Eco Racing team at Cairo U
 </p>
 <p>check out more at <a href = "https://github.com/MoAshrafPT/frontend">frontend</a> --- <a href = "https://github.com/MoAshrafPT/EcoBackend">backend</a>  </p>
 
-<br/>
+<hr/>
 
 <h3>
 Logic Design Game (Spring 2023)
