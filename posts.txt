@@ -5,7 +5,7 @@ Created a portfolio website
 I think this one is self explanatory yall 😂. Will post full repository soon
 </p>
 
-<br/>
+<hr/>
 
 
 <h3>
@@ -19,7 +19,7 @@ One of the most life chaning experiences I had, and one that made me truly love 
 Technical aspect aside, the work environment at NCR is incredible and very friendly. Our mentors were very supportive and patient towards me and my team. To anyone I interacted with during my internship; Love you and keep this energy💙.
 </p>
 
-<br/>
+<hr/>
 
 <h3>
 Database Project (Fall 2023)
