@@ -4,7 +4,7 @@ Database Project (Fall 2023)
 <p>
 Created a fully functioning tool tracking website for Eco Racing team at Cairo University. The project login, signup and user authentication. Built with React, TypeScript, NodeJS and MySQL. Support for multiple user views is also included (admin,guest,member,manager). The app displays overall statistics for tasks assigned, average car part price, sponsor contributions.
 </p>
-<p>check out more at <a href = "https://github.com/MoAshrafPT/frontend"></a>(frontend) --- <a href = "https://github.com/MoAshrafPT/EcoBackend"></a>(backend)  </p>
+<p>check out more at <a href = "https://github.com/MoAshrafPT/frontend">frontend</a>(frontend) --- <a href = "https://github.com/MoAshrafPT/EcoBackend">backend</a>(backend)  </p>
 
 <br/>
 
